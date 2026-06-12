@@ -10,7 +10,7 @@ a
     display: inline-block;
 }
 p{
-    color: black;
+    color: rgb(12, 198, 33);
 }
 header
 {
@@ -164,6 +164,7 @@ header .container nav a{
     width: 400px;
     text-align: center;
     margin-left: -200px;
+    color: white;
 }
 #nosotros
 {
